@@ -1,0 +1,4 @@
+new_shop\model\entity\Product.class
+new_shop\controllers\ProductController.class
+new_shop\SpringApplicationStart.class
+new_shop\model\repository\ProductRepository.class
