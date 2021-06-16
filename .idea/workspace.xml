@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8dd12dab-2b28-4384-ab84-847e963a77ab" name="Default Changelist" comment="" />
+    <list default="true" id="8dd12dab-2b28-4384-ab84-847e963a77ab" name="Default Changelist" comment="Предложение описывающее проект">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1tyT1sZn9atjQf62LuI76Z8urcd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,11 +59,21 @@
       <option name="presentableId" value="Default" />
       <updated>1623740118190</updated>
     </task>
+    <task id="LOCAL-00001" summary="Предложение описывающее проект">
+      <created>1623847276162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623847276162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="Предложение описывающее проект" />
+    <option name="LAST_COMMIT_MESSAGE" value="Предложение описывающее проект" />
   </component>
 </project>
